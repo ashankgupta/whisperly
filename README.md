@@ -23,7 +23,7 @@ Built for fun, interaction, and keeping it low-key.
 
 1. **Clone the repo**  
 ```bash
-git clone https://github.com/Ashank007/whisperly
+git clone https://github.com/ashankgupta/whisperly
 cd whisperly
 ```
 
